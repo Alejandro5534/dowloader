@@ -32,7 +32,7 @@ A step by step series of examples that tell you how to get a development environ
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/large-file-downloader-app.git
+git clone https://github.com/Alejandro5534/large-file-downloader-app.git
 ```
 
 2. Open the project in your IDE.
